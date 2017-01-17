@@ -1,1 +1,1 @@
-# ArtStore
+# This "Art Store" is written in PHP and JavaScript. It is built on a MySQL database. The UI is designed using Semantic UI. This Art Store enables you to browse through paintings and add them to your favourites or the shopping cart. You can also browse by the Artist, Gallery, Genre, and Subject. The single painting page includes all details on the painting and enables you to customize the order of the painting, such as selecting type of frame you want or the type glass you prefer for the respective drop-downs.
